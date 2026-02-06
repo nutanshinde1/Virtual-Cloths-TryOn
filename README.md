@@ -1,1 +1,1 @@
-# Virtual-Cloths-TryOn
+# Virtual-Cloths-TryOn Demo only
